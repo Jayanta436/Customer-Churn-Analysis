@@ -217,18 +217,11 @@ Based on the analysis, the following strategies can improve customer retention:
 ```
 Telecom-Customer-Churn-Analysis/
 │
-├── data/
-│   └── telecom_customer_churn.csv
+├── telecom_customer_churn.csv
 │
-├── notebooks/
-│   └── Telecom_Customer_Churn_EDA.ipynb
+├── Telecom_Customer_Churn_EDA.ipynb
 │
-├── images/
-│   ├── churn_distribution.png
-│   ├── tenure_analysis.png
-│   ├── contract_type.png
-│   ├── payment_method.png
-│   └── service_analysis.png
+├── Executive Summary-Telecom Customer Churn Analysis.pdf
 │
 ├── README.md
 └── requirements.txt
